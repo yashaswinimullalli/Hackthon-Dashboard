@@ -2,7 +2,7 @@
 
 A frontend-only web application that simulates how a real hackathon is managed — from participant registration to live check-in/check-out and team formation during the event.
 
-This project is built using only frontend technologies and browser storage, without any backend services or authentication.
+Mini Event-management system that organizers can actually use during a hackathon
 
 ---
 
